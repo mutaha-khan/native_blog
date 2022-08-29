@@ -1,0 +1,81 @@
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Ghost is running in development...","time":"2022-08-29T18:17:33.136Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Listening on: 127.0.0.1:2368","time":"2022-08-29T18:17:33.137Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Url configured as: http://localhost:2368/","time":"2022-08-29T18:17:33.138Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Ctrl+C to shut down","time":"2022-08-29T18:17:33.138Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Ghost server started in 1.361s","time":"2022-08-29T18:17:33.140Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":40,"msg":"Database state requires initialisation.","time":"2022-08-29T18:17:33.525Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Creating table: newsletters","time":"2022-08-29T18:17:34.110Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Creating table: posts","time":"2022-08-29T18:17:34.146Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Creating table: posts_meta","time":"2022-08-29T18:17:34.158Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Creating table: users","time":"2022-08-29T18:17:34.173Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Creating table: posts_authors","time":"2022-08-29T18:17:34.209Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Creating table: roles","time":"2022-08-29T18:17:34.221Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Creating table: roles_users","time":"2022-08-29T18:17:34.235Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Creating table: permissions","time":"2022-08-29T18:17:34.241Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Creating table: permissions_users","time":"2022-08-29T18:17:34.252Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Creating table: permissions_roles","time":"2022-08-29T18:17:34.264Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Creating table: settings","time":"2022-08-29T18:17:34.276Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Creating table: tags","time":"2022-08-29T18:17:34.299Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Creating table: posts_tags","time":"2022-08-29T18:17:34.316Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Creating table: invites","time":"2022-08-29T18:17:34.322Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Creating table: brute","time":"2022-08-29T18:17:34.338Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Creating table: sessions","time":"2022-08-29T18:17:34.350Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Creating table: integrations","time":"2022-08-29T18:17:34.375Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Creating table: webhooks","time":"2022-08-29T18:17:34.391Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Creating table: api_keys","time":"2022-08-29T18:17:34.398Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Creating table: mobiledoc_revisions","time":"2022-08-29T18:17:34.408Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Creating table: members","time":"2022-08-29T18:17:34.432Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Creating table: products","time":"2022-08-29T18:17:34.470Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Creating table: offers","time":"2022-08-29T18:17:34.487Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Creating table: benefits","time":"2022-08-29T18:17:34.529Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Creating table: products_benefits","time":"2022-08-29T18:17:34.541Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Creating table: members_products","time":"2022-08-29T18:17:34.548Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Creating table: posts_products","time":"2022-08-29T18:17:34.554Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Creating table: members_created_events","time":"2022-08-29T18:17:34.563Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Creating table: members_cancel_events","time":"2022-08-29T18:17:34.576Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Creating table: members_payment_events","time":"2022-08-29T18:17:34.588Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Creating table: members_login_events","time":"2022-08-29T18:17:34.601Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Creating table: members_email_change_events","time":"2022-08-29T18:17:34.611Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Creating table: members_status_events","time":"2022-08-29T18:17:34.617Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Creating table: members_product_events","time":"2022-08-29T18:17:34.623Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Creating table: members_paid_subscription_events","time":"2022-08-29T18:17:34.629Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Creating table: labels","time":"2022-08-29T18:17:34.635Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Creating table: members_labels","time":"2022-08-29T18:17:34.667Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Creating table: members_stripe_customers","time":"2022-08-29T18:17:34.680Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Creating table: members_stripe_customers_subscriptions","time":"2022-08-29T18:17:34.700Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Creating table: members_subscription_created_events","time":"2022-08-29T18:17:34.715Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Creating table: offer_redemptions","time":"2022-08-29T18:17:34.723Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Creating table: members_subscribe_events","time":"2022-08-29T18:17:34.736Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Creating table: stripe_products","time":"2022-08-29T18:17:34.748Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Creating table: stripe_prices","time":"2022-08-29T18:17:34.772Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Creating table: actions","time":"2022-08-29T18:17:34.784Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Creating table: emails","time":"2022-08-29T18:17:34.790Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Creating table: email_batches","time":"2022-08-29T18:17:34.814Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Creating table: email_recipients","time":"2022-08-29T18:17:34.826Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Creating table: tokens","time":"2022-08-29T18:17:34.872Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Creating table: snippets","time":"2022-08-29T18:17:34.896Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Creating table: custom_theme_settings","time":"2022-08-29T18:17:34.912Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Creating table: members_newsletters","time":"2022-08-29T18:17:34.918Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Creating table: comments","time":"2022-08-29T18:17:34.924Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Creating table: comment_likes","time":"2022-08-29T18:17:34.930Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Creating table: comment_reports","time":"2022-08-29T18:17:34.943Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Creating table: jobs","time":"2022-08-29T18:17:34.955Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Model: Product","time":"2022-08-29T18:17:44.575Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Model: Newsletter","time":"2022-08-29T18:17:44.589Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Model: Tag","time":"2022-08-29T18:17:44.598Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Model: Permission","time":"2022-08-29T18:17:44.606Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Model: Post","time":"2022-08-29T18:17:44.996Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Model: Integration","time":"2022-08-29T18:17:45.780Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Relation: Role to Permission","time":"2022-08-29T18:17:45.838Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Relation: Post to Tag","time":"2022-08-29T18:17:46.134Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Database is in a ready state.","time":"2022-08-29T18:17:46.256Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Ghost database ready in 14.478s","time":"2022-08-29T18:17:46.258Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":50,"err":{"id":"e3dd4350-27c6-11ed-89d8-2758831299f2","domain":"http://localhost:2368/","code":"ENOENT","name":"InternalServerError","statusCode":500,"level":"critical","message":"Unable to activate the theme \"casper\".","stack":"Error: ENOENT: no such file or directory, copyfile 'G:\\native_blog\\versions\\5.12.0\\core\\frontend\\src\\admin-auth\\index.html' -> 'G:\\native_blog\\content\\public\\admin-auth\\index.html'\n    at Bridge.activateTheme (G:\\native_blog\\versions\\5.12.0\\core\\bridge.js:76:27)","hideStack":false},"msg":"Unable to activate the theme \"casper\".","time":"2022-08-29T18:17:49.831Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Ghost URL Service Ready in 19.231s","time":"2022-08-29T18:17:51.010Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Adding one off inline job to the queue","time":"2022-08-29T18:17:51.096Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Stripe not configured - skipping migrations","time":"2022-08-29T18:17:51.110Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Adding offloaded job to the queue","time":"2022-08-29T18:17:51.572Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Scheduling job clean-expired-comped at 48 5 0 * * *. Next run on: Tue Aug 30 2022 00:05:48 GMT+0500 (Pakistan Standard Time)","time":"2022-08-29T18:17:51.587Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Ghost booted in 19.821s","time":"2022-08-29T18:17:51.601Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Adding offloaded job to the queue","time":"2022-08-29T18:17:51.614Z","v":0}
+{"name":"Log","hostname":"DESKTOP-7DKJ8SK","pid":6520,"level":30,"msg":"Scheduling job update-check at 26 23 17 * * *. Next run on: Tue Aug 30 2022 17:23:26 GMT+0500 (Pakistan Standard Time)","time":"2022-08-29T18:17:51.625Z","v":0}
